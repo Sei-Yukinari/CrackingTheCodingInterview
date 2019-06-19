@@ -14,7 +14,7 @@ export function isUnique(inputString: string): boolean {
 }
 
 export function isUnique2(inputString: string): boolean {
-  return !Array.from(inputString).some((element, index, inputString) => {
-    return inputString.indexOf(element, index + 1) !== -1;
-  });
+  return !Array.from(inputString).some((element, index, inputString) =>
+    inputString.indexOf(element, index + 1) !== -1
+  );
 }
