@@ -1,5 +1,5 @@
 /* @flow */
-export default function rotateMatrix(matrix: Array<Array<number>>): Array<Array<number>> {
+export default function rotateMatrix(matrix: Array<Array<number>>): Array<any> {
   const dimensions = matrix.length - 1;
   const result = [];
   matrix.forEach((column, columnIndex) => {
