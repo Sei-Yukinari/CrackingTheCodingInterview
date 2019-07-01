@@ -28,14 +28,14 @@ npm run lint
 - [x] 1.5 - One Away
 - [x] 1.6 - String Compression
 - [x] 1.7 - Rotate Matrix
-- [ ] 1.8 - Zero Matrix
-- [ ] 1.9 - String Rotation 
+- [x] 1.8 - Zero Matrix
+- [x] 1.9 - String Rotation 
 
 #### Chapter 2 
-- [ ] 2.1 - Remove Dups
-- [ ] 2.2 - Return Kth to Last
-- [ ] 2.3 - Delete Middle Node
-- [ ] 2.4 - Partition
+- [x] 2.1 - Remove Dups
+- [x] 2.2 - Return Kth to Last
+- [x] 2.3 - Delete Middle Node
+- [x] 2.4 - Partition
 - [ ] 2.5 - Sum Lists
 - [ ] 2.6 - Palindrome
 - [ ] 2.7 - Intersection
