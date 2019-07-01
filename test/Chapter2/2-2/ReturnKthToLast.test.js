@@ -1,5 +1,4 @@
 import assert from 'power-assert';
-import stringCompression from "../../../src/Chapter1/1-6/StringCompression";
 import returnKthToLast from "../../../src/Chapter2/2-2/ReturnKthToLast";
 
 describe('ReturnKthToLast', () => {
